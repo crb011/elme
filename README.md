@@ -1,16 +1,19 @@
 # elme
 
 ## Project setup
+## 当前目录下命令行运行，下载依赖项
 ```
 npm install
 ```
 
 ### Compiles and hot-reloads for development
+### 开发环境运行项目
 ```
-npm run serve
+npm run serve 
 ```
 
 ### Compiles and minifies for production
+### 生产环境运行项目
 ```
 npm run build
 ```
